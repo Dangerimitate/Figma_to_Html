@@ -1,0 +1,2666 @@
+.homepagetablet .storefront {
+  margin-right: 9px;
+  width: 24px;
+  height: 24px;
+}
+.homepagetablet .nft-marketplace {
+  margin: 6.4px 0 2.7px 0;
+  width: 149.6px;
+  height: 14.9px;
+}
+.homepagetablet .nav-logo {
+  display: flex;
+  flex-direction: row;
+  width: 182.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .vector-stroke-6 {
+  margin: 0 5.3px 4.5px 0;
+  width: 12.8px;
+  height: 1.5px;
+}
+.homepagetablet .vector-stroke-5 {
+  margin-bottom: 4.5px;
+  width: 18px;
+  height: 1.5px;
+}
+.homepagetablet .vector-stroke-7 {
+  margin-right: 5.3px;
+  width: 12.8px;
+  height: 1.5px;
+}
+.homepagetablet .nav-nav-menu {
+  margin: 5.3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 24px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .navigation {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px 53px 15px 50px;
+  width: 834px;
+  box-sizing: border-box;
+}
+.homepagetablet .discover-digital-art-collect-nfts {
+  margin: 0 22.5px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-3-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-3-work-sans-font-weight, 600);
+  font-size: var(--h-3-work-sans-font-size, 38px);
+  line-height: var(--h-3-work-sans-line-height, 1.2);
+  text-transform: var(--h-3-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .nft-marketplace-ui-created-with-anima-for-figma-collect-buy-and-sell-art-from-more-than-20-knft-artists {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .headline-subhead {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .rocket-launch {
+  margin: 1px 12.2px 1px 0;
+  width: 20px;
+  height: 20px;
+}
+.homepagetablet .button-1 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.homepagetablet .button {
+  border-radius: 20px;
+  background: var(--call-to-action, #A259FF);
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 19px 0;
+  width: 224px;
+  box-sizing: border-box;
+}
+.homepagetablet .k {
+  overflow-wrap: break-word;
+  font-family: var(--h-5-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-5-space-mono-font-weight, 700);
+  font-size: var(--h-5-space-mono-font-size, 22px);
+  line-height: var(--h-5-space-mono-line-height, 1.6);
+  text-transform: var(--h-5-space-mono-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .total-sale-1 {
+  margin-right: 4.6px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .total-sale {
+  border-radius: 20px;
+  margin-right: 39.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepagetablet .k-1 {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-5-space-mono-font-weight, 700);
+  font-size: var(--h-5-space-mono-font-size, 22px);
+  line-height: var(--h-5-space-mono-line-height, 1.6);
+  text-transform: var(--h-5-space-mono-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .auctions-1 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .auctions {
+  border-radius: 20px;
+  margin-right: 51.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepagetablet .k-2 {
+  overflow-wrap: break-word;
+  font-family: var(--h-5-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-5-space-mono-font-weight, 700);
+  font-size: var(--h-5-space-mono-font-size, 22px);
+  line-height: var(--h-5-space-mono-line-height, 1.6);
+  text-transform: var(--h-5-space-mono-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .artists-1 {
+  margin-right: 16.2px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .artists {
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepagetablet .additional-info {
+  border-radius: 20px;
+  margin-right: 5.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .hero-text-buttons {
+  margin: 80px 46.8px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .image-placeholder {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_5.png') 50% / cover no-repeat;
+  width: 330px;
+  height: 221px;
+}
+.homepagetablet .space-walking {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .avatar-placeholder {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 24px;
+  height: 24px;
+}
+.homepagetablet .avatar {
+  margin-right: 12px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.homepagetablet .dish-studio {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #FFFFFF;
+}
+.homepagetablet .artist-card {
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .frame-230 {
+  border-radius: 0 0 20px 20px;
+  background: var(--background-secondary, #3B3B3B);
+  display: flex;
+  flex-direction: column;
+  padding: 22px 0 22px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .highlighted-nft {
+  margin: 80px 0 51px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .hero-section {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: row;
+  padding: 80px 72px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .trending-collection-1 {
+  overflow-wrap: break-word;
+  font-family: var(--h-4-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-4-work-sans-font-weight, 600);
+  font-size: var(--h-4-work-sans-font-size, 28px);
+  line-height: var(--h-4-work-sans-line-height, 1.4);
+  text-transform: var(--h-4-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .heading {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .checkout-our-weekly-updated-trending-collection {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .subhead {
+  display: flex;
+  box-sizing: border-box;
+}
+.homepagetablet .section-headline {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .primary-photo-placeholder {
+  border-radius: 20px;
+  background: url('../assets/images/primary_photo_placeholder.png') 50% / cover no-repeat;
+  margin-bottom: 15px;
+  width: 330px;
+  height: 330px;
+}
+.homepagetablet .secondary-photo-placeholder {
+  border-radius: 20px;
+  background: url('../assets/images/secondary_photo_placeholder_1.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.homepagetablet .secondary-photo-placeholder-1 {
+  border-radius: 20px;
+  background: url('../assets/images/secondary_photo_placeholder_2.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.homepagetablet .container {
+  overflow-wrap: break-word;
+  font-family: var(--h-5-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-5-space-mono-font-weight, 700);
+  font-size: var(--h-5-space-mono-font-size, 22px);
+  line-height: var(--h-5-space-mono-line-height, 1.6);
+  text-transform: var(--h-5-space-mono-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .number-of-additional-nfts {
+  border-radius: 20px;
+  background: var(--call-to-action, #A259FF);
+  display: flex;
+  padding: 32.5px 16.3px;
+  box-sizing: border-box;
+}
+.homepagetablet .frame-228 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .photos-number-of-additional-nfts {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .collection-name {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .avatar-image {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 24px;
+  height: 24px;
+}
+.homepagetablet .avatar-1 {
+  margin-right: 12px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-name {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #FFFFFF;
+}
+.homepagetablet .artist-card-1 {
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .collection-info {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .collection-card {
+  border-radius: 20px;
+  background: var(--background, #2B2B2B);
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .primary-photo-placeholder-1 {
+  border-radius: 20px;
+  background: url('../assets/images/nft_highlight.png') 50% / cover no-repeat;
+  margin-bottom: 15px;
+  width: 330px;
+  height: 330px;
+}
+.homepagetablet .secondary-photo-placeholder-2 {
+  border-radius: 20px;
+  background: url('../assets/images/secondary_photo_placeholder.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.homepagetablet .secondary-photo-placeholder-3 {
+  border-radius: 20px;
+  background: url('../assets/images/secondary_photo_placeholder_4.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.homepagetablet .container-1 {
+  overflow-wrap: break-word;
+  font-family: var(--h-5-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-5-space-mono-font-weight, 700);
+  font-size: var(--h-5-space-mono-font-size, 22px);
+  line-height: var(--h-5-space-mono-line-height, 1.6);
+  text-transform: var(--h-5-space-mono-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .number-of-additional-nfts-1 {
+  border-radius: 20px;
+  background: var(--call-to-action, #A259FF);
+  display: flex;
+  padding: 32.5px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.homepagetablet .frame-2281 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 15px;
+  width: 330px;
+  box-sizing: border-box;
+}
+.homepagetablet .photos-number-of-additional-nfts-1 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 330px;
+  box-sizing: border-box;
+}
+.homepagetablet .collection-name-1 {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .avatar-image-1 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 24px;
+  height: 24px;
+}
+.homepagetablet .avatar-2 {
+  margin-right: 12px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-name-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #FFFFFF;
+}
+.homepagetablet .artist-card-2 {
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .collection-info-1 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .collection-card-1 {
+  border-radius: 20px;
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .collection-slider {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .trending-collection {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: column;
+  padding: 40px 72px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .top-creators {
+  overflow-wrap: break-word;
+  font-family: var(--h-4-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-4-work-sans-font-weight, 600);
+  font-size: var(--h-4-work-sans-font-size, 28px);
+  line-height: var(--h-4-work-sans-line-height, 1.4);
+  text-transform: var(--h-4-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .heading-1 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .checkout-top-rated-creators-on-the-nft-marketplace {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .subhead-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.homepagetablet .section-headline-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .rocket-launch-1 {
+  margin: 1px 12.4px 1px 0;
+  width: 20px;
+  height: 20px;
+}
+.homepagetablet .button-3 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.homepagetablet .button-2 {
+  border-radius: 20px;
+  border: 2px solid var(--call-to-action, #A259FF);
+  margin-top: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: 17px 0;
+  width: 247px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .section-headline-button {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 690px;
+  box-sizing: border-box;
+}
+.homepagetablet .avatar-placeholder-1 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 60px;
+  height: 60px;
+}
+.homepagetablet .artist-avatar {
+  margin-right: 20px;
+  display: flex;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.homepagetablet .dish-studio-1 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .total-sales {
+  margin-right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .eth {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .additional-info-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-info {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepagetablet .container-2 {
+  position: absolute;
+  right: 10.1px;
+  bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .ranking-number {
+  border-radius: 20px;
+  background: var(--background, #2B2B2B);
+  position: absolute;
+  left: 12px;
+  top: 13px;
+  width: 30px;
+  height: 30px;
+}
+.homepagetablet .artist-card-3 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  position: relative;
+  margin-right: 30px;
+  padding: 20px;
+  width: 330px;
+  box-sizing: border-box;
+}
+.homepagetablet .avatar-placeholder-2 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 60px;
+  height: 60px;
+}
+.homepagetablet .artist-avatar-1 {
+  margin-right: 20px;
+  display: flex;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.homepagetablet .dish-studio-2 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .total-sales-1 {
+  margin-right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .eth-1 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .additional-info-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-info-1 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepagetablet .container-3 {
+  position: absolute;
+  left: 10.1px;
+  bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .ranking-number-1 {
+  border-radius: 20px;
+  background: var(--background, #2B2B2B);
+  position: absolute;
+  left: 12px;
+  top: 13px;
+  width: 30px;
+  height: 30px;
+}
+.homepagetablet .artist-card-4 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  position: relative;
+  padding: 20px;
+  width: 330px;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-cards-row {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .avatar-placeholder-3 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 60px;
+  height: 60px;
+}
+.homepagetablet .artist-avatar-2 {
+  margin-right: 20px;
+  display: flex;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.homepagetablet .dish-studio-3 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .total-sales-2 {
+  margin-right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .eth-2 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .additional-info-3 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-info-2 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepagetablet .container-4 {
+  position: absolute;
+  right: 10.1px;
+  bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .ranking-number-2 {
+  border-radius: 20px;
+  background: var(--background, #2B2B2B);
+  position: absolute;
+  left: 12px;
+  top: 13px;
+  width: 30px;
+  height: 30px;
+}
+.homepagetablet .artist-card-5 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  position: relative;
+  margin-right: 30px;
+  padding: 20px;
+  width: 330px;
+  box-sizing: border-box;
+}
+.homepagetablet .avatar-placeholder-4 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 60px;
+  height: 60px;
+}
+.homepagetablet .artist-avatar-3 {
+  margin-right: 20px;
+  display: flex;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.homepagetablet .dish-studio-4 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .total-sales-3 {
+  margin-right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .eth-3 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .additional-info-4 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-info-3 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepagetablet .container-5 {
+  position: absolute;
+  left: 10.1px;
+  bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .ranking-number-3 {
+  border-radius: 20px;
+  background: var(--background, #2B2B2B);
+  position: absolute;
+  left: 12px;
+  top: 13px;
+  width: 30px;
+  height: 30px;
+}
+.homepagetablet .artist-card-6 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  position: relative;
+  padding: 20px;
+  width: 330px;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-cards-row-1 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .avatar-placeholder-5 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 60px;
+  height: 60px;
+}
+.homepagetablet .artist-avatar-4 {
+  margin-right: 20px;
+  display: flex;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.homepagetablet .dish-studio-5 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .total-sales-4 {
+  margin-right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .eth-4 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .additional-info-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-info-4 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepagetablet .container-6 {
+  position: absolute;
+  right: 10.1px;
+  bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .ranking-number-4 {
+  border-radius: 20px;
+  background: var(--background, #2B2B2B);
+  position: absolute;
+  left: 12px;
+  top: 13px;
+  width: 30px;
+  height: 30px;
+}
+.homepagetablet .artist-card-7 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  position: relative;
+  margin-right: 30px;
+  padding: 20px;
+  width: 330px;
+  box-sizing: border-box;
+}
+.homepagetablet .avatar-placeholder-6 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 60px;
+  height: 60px;
+}
+.homepagetablet .artist-avatar-5 {
+  margin-right: 20px;
+  display: flex;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.homepagetablet .dish-studio-6 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .total-sales-5 {
+  margin-right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .eth-5 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .additional-info-6 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-info-5 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepagetablet .container-7 {
+  position: absolute;
+  left: 10.1px;
+  bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--caption-label-text, #858584);
+}
+.homepagetablet .ranking-number-5 {
+  border-radius: 20px;
+  background: var(--background, #2B2B2B);
+  position: absolute;
+  left: 12px;
+  top: 13px;
+  width: 30px;
+  height: 30px;
+}
+.homepagetablet .artist-card-8 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  position: relative;
+  padding: 20px;
+  width: 330px;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-cards-row-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artist-cards-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .top-rated-artists {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 72px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .browse-categories-1 {
+  overflow-wrap: break-word;
+  font-family: var(--h-4-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-4-work-sans-font-weight, 600);
+  font-size: var(--h-4-work-sans-font-size, 28px);
+  line-height: var(--h-4-work-sans-line-height, 1.4);
+  text-transform: var(--h-4-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .section-headline-2 {
+  margin-bottom: 40px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .paint-brush {
+  width: 80px;
+  height: 80px;
+}
+.homepagetablet .category-icon {
+  backdrop-filter: blur(7.5px);
+  border-radius: 20px 20px 0 0;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 31px 0;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .photo-icon {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-name-1 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .category-name {
+  margin: 0 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .category-card {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+}
+.homepagetablet .paint-brush-1 {
+  width: 80px;
+  height: 80px;
+}
+.homepagetablet .category-icon-1 {
+  backdrop-filter: blur(7.5px);
+  border-radius: 20px 20px 0 0;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 31px 0;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .photo-icon-1 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-name-3 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .category-name-2 {
+  margin: 0 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .category-card-1 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+}
+.homepagetablet .paint-brush-2 {
+  width: 80px;
+  height: 80px;
+}
+.homepagetablet .category-icon-2 {
+  backdrop-filter: blur(7.5px);
+  border-radius: 20px 20px 0 0;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 31px 0;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .photo-icon-2 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-name-5 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .category-name-4 {
+  margin: 0 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .category-card-2 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+}
+.homepagetablet .paint-brush-3 {
+  width: 80px;
+  height: 80px;
+}
+.homepagetablet .category-icon-3 {
+  backdrop-filter: blur(7.5px);
+  border-radius: 20px 20px 0 0;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 31px 0;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .photo-icon-3 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-name-7 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .category-name-6 {
+  margin: 0 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .category-card-3 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-cards-row {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .paint-brush-4 {
+  width: 80px;
+  height: 80px;
+}
+.homepagetablet .category-icon-4 {
+  backdrop-filter: blur(7.5px);
+  border-radius: 20px 20px 0 0;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 31px 0;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .photo-icon-4 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-name-9 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .category-name-8 {
+  margin: 0 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .category-card-4 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 47px;
+  box-sizing: border-box;
+}
+.homepagetablet .paint-brush-5 {
+  width: 80px;
+  height: 80px;
+}
+.homepagetablet .category-icon-5 {
+  backdrop-filter: blur(7.5px);
+  border-radius: 20px 20px 0 0;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 31px 0;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .photo-icon-5 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-name-11 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .category-name-10 {
+  margin: 0 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .category-card-5 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 47px;
+  box-sizing: border-box;
+}
+.homepagetablet .paint-brush-6 {
+  width: 80px;
+  height: 80px;
+}
+.homepagetablet .category-icon-6 {
+  backdrop-filter: blur(7.5px);
+  border-radius: 20px 20px 0 0;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 31px 0;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .photo-icon-6 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-name-13 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .category-name-12 {
+  margin: 0 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .category-card-6 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 47px;
+  box-sizing: border-box;
+}
+.homepagetablet .paint-brush-7 {
+  width: 80px;
+  height: 80px;
+}
+.homepagetablet .category-icon-7 {
+  backdrop-filter: blur(7.5px);
+  border-radius: 20px 20px 0 0;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 31px 0;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .photo-icon-7 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_1.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 150px;
+  height: 142px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-name-15 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .category-name-14 {
+  margin: 0 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepagetablet .category-card-7 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+}
+.homepagetablet .category-cards-row-1 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .category-cards-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .browse-categories {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: column;
+  padding: 40px 72px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .discover-more-nfts-1 {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-4-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-4-work-sans-font-weight, 600);
+  font-size: var(--h-4-work-sans-font-size, 28px);
+  line-height: var(--h-4-work-sans-line-height, 1.4);
+  text-transform: var(--h-4-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .explore-new-trending-nfts {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .section-headline-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .rocket-launch-2 {
+  margin: 1px 12.4px 1px 0;
+  width: 20px;
+  height: 20px;
+}
+.homepagetablet .button-5 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.homepagetablet .button-4 {
+  border-radius: 20px;
+  border: 2px solid var(--call-to-action, #A259FF);
+  margin-top: 11px;
+  display: flex;
+  flex-direction: row;
+  padding: 17px 0;
+  width: 187px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .section-headline-button-1 {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 690px;
+  box-sizing: border-box;
+}
+.homepagetablet .image-placeholder-17 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder.png') 50% / cover no-repeat;
+  width: 330px;
+  height: 295px;
+}
+.homepagetablet .image {
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 20px;
+  display: flex;
+  width: 330px;
+  height: 295px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-name {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .avatar-placeholder-7 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 24px;
+  height: 24px;
+}
+.homepagetablet .avatar-3 {
+  margin-right: 12px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-artist {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .artist-avatar-name {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artst-info {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .price-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--caption-space-mono-font-family, 'Space Mono');
+  font-weight: var(--caption-space-mono-font-weight, 400);
+  font-size: var(--caption-space-mono-font-size, 12px);
+  line-height: var(--caption-space-mono-line-height, 1.1);
+  color: #858584;
+}
+.homepagetablet .eth-6 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .price {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .highest-bid-1 {
+  margin: 0 0 8px 7.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-space-mono-font-family, 'Space Mono');
+  font-weight: var(--caption-space-mono-font-weight, 400);
+  font-size: var(--caption-space-mono-font-size, 12px);
+  line-height: var(--caption-space-mono-line-height, 1.1);
+  color: #858584;
+}
+.homepagetablet .weth {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .highest-bid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepagetablet .additional-info-7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 270px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-info {
+  margin: 0 30px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-card {
+  border-radius: 20px;
+  background: #3B3B3B;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 26px;
+  box-sizing: border-box;
+}
+.homepagetablet .image-placeholder-18 {
+  border-radius: 20px 20px 0 0;
+  background: url('../assets/images/image_placeholder_6.png') 50% / cover no-repeat;
+  width: 330px;
+  height: 295px;
+}
+.homepagetablet .image-1 {
+  border-radius: 20px 20px 0 0;
+  margin-bottom: 20px;
+  display: flex;
+  width: 330px;
+  height: 295px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-name-1 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-5-work-sans-font-weight, 600);
+  font-size: var(--h-5-work-sans-font-size, 22px);
+  line-height: var(--h-5-work-sans-line-height, 1.4);
+  text-transform: var(--h-5-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .avatar-placeholder-8 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 24px;
+  height: 24px;
+}
+.homepagetablet .avatar-4 {
+  margin-right: 12px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-artist-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .artist-avatar-name-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .artst-info-1 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .price-3 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--caption-space-mono-font-family, 'Space Mono');
+  font-weight: var(--caption-space-mono-font-weight, 400);
+  font-size: var(--caption-space-mono-font-size, 12px);
+  line-height: var(--caption-space-mono-line-height, 1.1);
+  color: #858584;
+}
+.homepagetablet .eth-7 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .price-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .highest-bid-3 {
+  margin: 0 0 8px 7.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-space-mono-font-family, 'Space Mono');
+  font-weight: var(--caption-space-mono-font-weight, 400);
+  font-size: var(--caption-space-mono-font-size, 12px);
+  line-height: var(--caption-space-mono-line-height, 1.1);
+  color: #858584;
+}
+.homepagetablet .weth-1 {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-space-mono-font-family, 'Space Mono');
+  font-weight: var(--base-body-space-mono-font-weight, 400);
+  font-size: var(--base-body-space-mono-font-size, 16px);
+  line-height: var(--base-body-space-mono-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .highest-bid-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepagetablet .additional-info-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 270px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-info-1 {
+  margin: 0 30px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-card-1 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 26px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-cards-row {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .discover-more-nfts {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 72px 80px 72px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .avatar-placeholder-9 {
+  border-radius: 100px;
+  background: url('../assets/images/avatar_placeholder.png') 50% / cover no-repeat;
+  width: 24px;
+  height: 24px;
+}
+.homepagetablet .avatar-5 {
+  margin-right: 12px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.homepagetablet .dish-studio-7 {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #FFFFFF;
+}
+.homepagetablet .artist-card-9 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 10px 0 10px 20px;
+  width: 151px;
+  box-sizing: border-box;
+}
+.homepagetablet .magic-mashrooms {
+  margin-bottom: 30px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-3-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-3-work-sans-font-weight, 600);
+  font-size: var(--h-3-work-sans-font-size, 38px);
+  line-height: var(--h-3-work-sans-line-height, 1.2);
+  text-transform: var(--h-3-work-sans-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .container-1 {
+  margin: 3.5px 1.4px 0.2px 0;
+  width: 5.7px;
+  height: 5.7px;
+}
+.homepagetablet .container-6 {
+  width: 5.7px;
+  height: 9.4px;
+}
+.homepagetablet .rocket-launch-3 {
+  margin: 9.5px 17.2px 3.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 20px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .button-7 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--background, #2B2B2B);
+}
+.homepagetablet .button-6 {
+  border-radius: 20px;
+  background: var(--text, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 19px 0;
+  width: 198px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-artst-name-button {
+  margin-right: 38.2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .auction-ends-in {
+  margin: 0 115.9px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-space-mono-font-family, 'Space Mono');
+  font-weight: var(--caption-space-mono-font-weight, 400);
+  font-size: var(--caption-space-mono-font-size, 12px);
+  line-height: var(--caption-space-mono-line-height, 1.1);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .container-8 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-3-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-3-space-mono-font-weight, 700);
+  font-size: var(--h-3-space-mono-font-size, 38px);
+  line-height: var(--h-3-space-mono-line-height, 1.2);
+  text-transform: var(--h-3-space-mono-text-transform, capitalize);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .hours-1 {
+  margin-right: 9.8px;
+  overflow-wrap: break-word;
+  font-family: var(--caption-space-mono-font-family, 'Space Mono');
+  font-weight: var(--caption-space-mono-font-weight, 400);
+  font-size: var(--caption-space-mono-font-size, 12px);
+  line-height: var(--caption-space-mono-line-height, 1.1);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .hours {
+  margin-right: 16.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepagetablet .container-9 {
+  margin: 0 10.9px 25px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-4-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-4-space-mono-font-weight, 700);
+  font-size: var(--h-4-space-mono-font-size, 28px);
+  line-height: var(--h-4-space-mono-line-height, 1.4);
+  text-transform: var(--h-4-space-mono-text-transform, capitalize);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .container-10 {
+  margin: 0 4.9px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-3-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-3-space-mono-font-weight, 700);
+  font-size: var(--h-3-space-mono-font-size, 38px);
+  line-height: var(--h-3-space-mono-line-height, 1.2);
+  text-transform: var(--h-3-space-mono-text-transform, capitalize);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .minutes-1 {
+  overflow-wrap: break-word;
+  font-family: var(--caption-space-mono-font-family, 'Space Mono');
+  font-weight: var(--caption-space-mono-font-weight, 400);
+  font-size: var(--caption-space-mono-font-size, 12px);
+  line-height: var(--caption-space-mono-line-height, 1.1);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .minutes {
+  margin-right: 11.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepagetablet .container-11 {
+  margin: 0 10.9px 25px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-4-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-4-space-mono-font-weight, 700);
+  font-size: var(--h-4-space-mono-font-size, 28px);
+  line-height: var(--h-4-space-mono-line-height, 1.4);
+  text-transform: var(--h-4-space-mono-text-transform, capitalize);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .container-12 {
+  margin: 0 4.9px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-3-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-3-space-mono-font-weight, 700);
+  font-size: var(--h-3-space-mono-font-size, 38px);
+  line-height: var(--h-3-space-mono-line-height, 1.2);
+  text-transform: var(--h-3-space-mono-text-transform, capitalize);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .seconds-1 {
+  overflow-wrap: break-word;
+  font-family: var(--caption-space-mono-font-family, 'Space Mono');
+  font-weight: var(--caption-space-mono-font-weight, 400);
+  font-size: var(--caption-space-mono-font-size, 12px);
+  line-height: var(--caption-space-mono-line-height, 1.1);
+  color: var(--text, #FFFFFF);
+}
+.homepagetablet .seconds {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepagetablet .timer {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .auction-timer {
+  backdrop-filter: blur(5px);
+  border-radius: 20px;
+  background: rgba(59, 59, 59, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 0;
+  width: 295px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-info-2 {
+  background: linear-gradient(180deg, rgba(162, 89, 255, 0), #A259FF);
+  display: flex;
+  flex-direction: row;
+  padding: 360px 82px 60px 82px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-highlight {
+  background: url('../assets/images/nft_highlight.png') 50% / cover no-repeat;
+  display: flex;
+  box-sizing: border-box;
+}
+.homepagetablet .how-it-works-1 {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-4-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-4-work-sans-font-weight, 600);
+  font-size: var(--h-4-work-sans-font-size, 28px);
+  line-height: var(--h-4-work-sans-line-height, 1.4);
+  text-transform: var(--h-4-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .find-out-how-to-get-started {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .section-headline-4 {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .icon {
+  margin-bottom: 20px;
+  width: 160px;
+  height: 160px;
+}
+.homepagetablet .setup-your-wallet {
+  margin: 0 14.7px 10px 14.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.homepagetablet .set-up-your-wallet-of-choice-connect-it-to-the-nft-market-by-clicking-the-wallet-icon-in-the-top-right-corner {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .card-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .info-card {
+  border-radius: 20px;
+  background: var(--background-secondary, #3B3B3B);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 20.9px 13px 20.9px;
+  box-sizing: border-box;
+}
+.homepagetablet .icon-1 {
+  margin-bottom: 20px;
+  width: 160px;
+  height: 160px;
+}
+.homepagetablet .setup-your-wallet-1 {
+  margin: 0 14.5px 10px 14.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .set-up-your-wallet-of-choice-connect-it-to-the-nft-market-by-clicking-the-wallet-icon-in-the-top-right-corner-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .card-details-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .info-card-1 {
+  border-radius: 20px;
+  background: var(--background-secondary, #3B3B3B);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0 30px 0;
+  width: 210px;
+  box-sizing: border-box;
+}
+.homepagetablet .icon-2 {
+  margin-bottom: 20px;
+  width: 160px;
+  height: 160px;
+}
+.homepagetablet .setup-your-wallet-2 {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .set-up-your-wallet-of-choice-connect-it-to-the-nft-market-by-clicking-the-wallet-icon-in-the-top-right-corner-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .card-details-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .info-card-2 {
+  border-radius: 20px;
+  background: var(--background-secondary, #3B3B3B);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0 30px 0;
+  width: 210px;
+  box-sizing: border-box;
+}
+.homepagetablet .card-row {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .how-it-works {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: column;
+  padding: 40px 72px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .photo {
+  border-radius: 20px;
+  background: url('../assets/images/photo.png') 50% / cover no-repeat;
+  margin: 40px 30px 0 0;
+  width: 300px;
+  height: 280px;
+}
+.homepagetablet .join-our-weekly-digest {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-4-work-sans-font-family, 'Work Sans');
+  font-weight: var(--h-4-work-sans-font-weight, 600);
+  font-size: var(--h-4-work-sans-font-size, 28px);
+  line-height: var(--h-4-work-sans-line-height, 1.4);
+  text-transform: var(--h-4-work-sans-text-transform, capitalize);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .get-exclusive-promotions-updates-straight-to-your-inbox {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--white, #FFFFFF);
+}
+.homepagetablet .headline-subhead-1 {
+  margin: 0 17.3px 40px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .enter-your-email-address {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--background, #2B2B2B);
+}
+.homepagetablet .type-form {
+  border-radius: 20px;
+  border: 1px solid var(--caption-label-text, #858584);
+  background: var(--text, #FFFFFF);
+  margin-bottom: 16px;
+  padding: 11px 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .rocket-launch-4 {
+  margin: 1px 12.4px 1px 0;
+  width: 20px;
+  height: 20px;
+}
+.homepagetablet .button-9 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.homepagetablet .button-8 {
+  border-radius: 20px;
+  background: var(--call-to-action, #A259FF);
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0;
+  width: 300px;
+  box-sizing: border-box;
+}
+.homepagetablet .subscribe-widget-mobile {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .frame-179 {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepagetablet .subscribe-widget-1 {
+  border-radius: 20px;
+  background: #3B3B3B;
+  display: flex;
+  flex-direction: row;
+  padding: 40px 30px;
+  box-sizing: border-box;
+}
+.homepagetablet .subscribe-widget {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  padding: 40px 72px 0 72px;
+  height: 480px;
+  box-sizing: border-box;
+}
+.homepagetablet .storefront-1 {
+  margin-right: 12px;
+  width: 32px;
+  height: 32px;
+}
+.homepagetablet .nft-marketplace-1 {
+  margin: 8.6px 0 3.6px 0;
+  width: 199.4px;
+  height: 19.8px;
+}
+.homepagetablet .logo {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 243.4px;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-marketplace-ui-created-with-anima-for-figma {
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #CCCCCC;
+}
+.homepagetablet .join-our-community {
+  margin: 0 0.7px 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #CCCCCC;
+}
+.homepagetablet .discord-logo {
+  margin-right: 10px;
+  width: 32px;
+  height: 32px;
+}
+.homepagetablet .youtube-logo {
+  margin-right: 14.7px;
+  width: 32px;
+  height: 32px;
+}
+.homepagetablet .vector-100 {
+  width: 25.3px;
+  height: 22px;
+}
+.homepagetablet .twitter-logo {
+  margin: 6px 12px 4px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.homepagetablet .instagram-logo {
+  width: 32px;
+  height: 32px;
+}
+.homepagetablet .icons {
+  display: flex;
+  flex-direction: row;
+  width: 158px;
+  box-sizing: border-box;
+}
+.homepagetablet .community-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .additional-info-9 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .nft-marketplace-info {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .explore-1 {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-5-space-mono-font-weight, 700);
+  font-size: var(--h-5-space-mono-font-size, 22px);
+  line-height: var(--h-5-space-mono-line-height, 1.6);
+  text-transform: var(--h-5-space-mono-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .marketplace {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #CCCCCC;
+}
+.homepagetablet .rankings {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #CCCCCC;
+}
+.homepagetablet .connect-awallet {
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #CCCCCC;
+}
+.homepagetablet .pages {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .explore {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .join-our-weekly-digest-1 {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-5-space-mono-font-family, 'Space Mono');
+  font-weight: var(--h-5-space-mono-font-weight, 700);
+  font-size: var(--h-5-space-mono-font-size, 22px);
+  line-height: var(--h-5-space-mono-line-height, 1.6);
+  text-transform: var(--h-5-space-mono-text-transform, capitalize);
+  color: #FFFFFF;
+}
+.homepagetablet .get-exclusive-promotions-updates-straight-to-your-inbox-1 {
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: #CCCCCC;
+}
+.homepagetablet .enter-your-email-here {
+  margin: 19px 52.3px 19px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--base-body-work-sans-font-family, 'Work Sans');
+  font-weight: var(--base-body-work-sans-font-weight, 400);
+  font-size: var(--base-body-work-sans-font-size, 16px);
+  line-height: var(--base-body-work-sans-line-height, 1.4);
+  color: var(--background, #2B2B2B);
+}
+.homepagetablet .button-11 {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.homepagetablet .button-10 {
+  border-radius: 20px;
+  background: var(--call-to-action, #A259FF);
+  display: flex;
+  padding: 19px 0;
+  width: 179px;
+  box-sizing: border-box;
+}
+.homepagetablet .subscribe-form {
+  border-radius: 20px;
+  background: var(--text, #FFFFFF);
+  margin-right: 40px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .subscribe-form-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .subscribe {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .footer-info {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .divider {
+  background: #858584;
+  margin-bottom: 19px;
+  width: 690px;
+  height: 0px;
+}
+.homepagetablet .nft-market-use-this-template-freely {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--caption-work-sans-font-family, 'Work Sans');
+  font-weight: var(--caption-work-sans-font-weight, 400);
+  font-size: var(--caption-work-sans-font-size, 12px);
+  line-height: var(--caption-work-sans-line-height, 1.1);
+  color: #CCCCCC;
+}
+.homepagetablet .frame-239 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet .footer {
+  background: var(--background-secondary, #3B3B3B);
+  display: flex;
+  flex-direction: column;
+  padding: 40px 72px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepagetablet {
+  background: var(--background, #2B2B2B);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 834px;
+  box-sizing: border-box;
+}
